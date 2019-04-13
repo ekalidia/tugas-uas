@@ -14,4 +14,13 @@ Bagaimana gambaran package dan module ? Package merupakan sekumpulan file-file m
 <p align="center">
 <img src="https://github.com/ekalidia/tugas-uas/blob/master/package.png" width="450" height="300" />
 </p>
-Dan di bawah ini adalah Coding(source code) Program yang menggunakan package :
+
+# Dibawah ini adalah Coding(source code) Program yang menggunakan package :
+
+<p align="center">
+<img src="https://github.com/ekalidia/tugas-uas/blob/master/main.png" width="450" height="300" />
+</p>
+Dan output running program tersebut :
+<p align="center">
+<img src="https://github.com/ekalidia/tugas-uas/blob/master/cmd.png" width="450" height="300" />
+</p>
