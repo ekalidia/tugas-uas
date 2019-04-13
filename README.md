@@ -15,7 +15,7 @@ Bagaimana gambaran package dan module ? Package merupakan sekumpulan file-file m
 <img src="https://github.com/ekalidia/tugas-uas/blob/master/package.png" width="450" height="300" />
 </p>
 
-# Dibawah ini adalah Coding(source code) Program yang menggunakan package :
+# Dibawah ini adalah Coding (source code) Program yang menggunakan package :
 
 <p align="center">
 <img src="https://github.com/ekalidia/tugas-uas/blob/master/main.png" width="450" height="300" />
@@ -23,4 +23,12 @@ Bagaimana gambaran package dan module ? Package merupakan sekumpulan file-file m
 Dan output running program tersebut :
 <p align="center">
 <img src="https://github.com/ekalidia/tugas-uas/blob/master/cmd.png" width="450" height="300" />
+</p>
+
+# Flowchart Program 
+
+Flowchart program ini berfungsi memudahkan dalam menjalankan program main.py yang saya buat.
+
+<p align="center">
+<img src="https://github.com/ekalidia/tugas-uas/blob/master/flowchart.png" width="450" height="300" />
 </p>
